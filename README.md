@@ -5,13 +5,13 @@ This app will help you schedule and plan out your work days! It displays the cur
 N/A
 
 ## Links 
-- [Repo]()
+- [Repo](https://github.com/marissa-a-darr/workday-scheduling-app)
 
-- [URL]()
+- [URL](https://marissa-a-darr.github.io/workday-scheduling-app/)
 
 ## Screenshot 
 
-![Workday Scheduling App](assets\schedulerscreenshot.png)
+![Workday Scheduling App](./assets/schedulerscreenshot.png)
 
 ## Built With
 -HTML
