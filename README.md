@@ -1,4 +1,4 @@
-# Work Day Scheduling APP
+# Stay on Track Workday Scheduler
 This app will help you schedule and plan out your work days! It displays the current time and date and the app will highlight the current hour you are in. Past events and future events will be colored different to keep you organized. 
 
 ## Installation
@@ -11,7 +11,7 @@ N/A
 
 ## Screenshot 
 
-![Workday Scheduling App](./assets/schedulerscreenshot.png)
+![Workday Scheduling App](./assets/css/schedulerscreenshot.png)
 
 ## Built With
 -HTML
@@ -21,3 +21,4 @@ N/A
 -Jquery
 -Bootstrap 
 -Google Fonts
+-Font Awesome
